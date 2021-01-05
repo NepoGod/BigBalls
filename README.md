@@ -1,5 +1,5 @@
 # BigBalls
-Big balls eat small ones\n
+Big balls eat small ones
 1.42版本
 更名为《大球吃小球(生存模式)》，添加game over后再来一次按钮
 1.41版本 
